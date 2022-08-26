@@ -1,4 +1,5 @@
 <template>
+  <h2>Nuevo titulo david</h2>
   <h3>PokemonPicture</h3>
 </template>
 
